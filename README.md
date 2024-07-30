@@ -6,7 +6,7 @@ This simple script lets you change your character's name in Stardew Valley witho
 
 ## Installation
 1. Ensure you have Python installed on your PC
-2. Download the latest release of [StardewValleyNameChanger](https://github.com/yourusername/stardewvalleynamechanger/releases)
+2. Download the latest release of [StardewValleyNameChanger](https://github.com/spookier/StardewValleyNameChanger/releases)
 3. Extract the zip file to a location of your choice
 
 ## Usage
